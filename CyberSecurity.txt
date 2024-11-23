@@ -1,0 +1,39 @@
+// What is CyberSecurity?
+
+When there are multiple devices are conneted through the internet and data is being stored in these device or being shared between these devices there are chances data can be steal or currepted through attacks called "Cyber Attacks" . The prevention from cyber attacks is known as cyber scurity.
+In other words, 
+Cyber security is the practice of protecting systems, networks, and programs from digital attacks. 
+
+
+// Need o Cyber security:
+1. Protecting Sensitive Information
+Ensures the confidentiality of critical data like personal, financial, or business records through encryption, secure storage, and access controls.
+
+2. Preventing Unauthorized Access
+Employs methods like authentication, authorization, and firewalls to ensure only authorized users can access systems and data.
+
+3. Protecting Against Malware and Viruses
+Uses antivirus software, intrusion detection systems, and regular updates to block malicious software designed to harm or exploit systems.
+
+4. Protecting Against Cyber Attacks
+Shields systems from threats like Distributed Denial of Service (DDoS), SQL injection, or brute force attacks through firewalls, security patches, and monitoring.
+
+5. Protecting Against Data Breaches
+Safeguards information by implementing strong encryption, secure access protocols, and employee awareness programs to prevent leaks or theft.
+
+6. Protecting Against Identity Theft
+Prevents misuse of personal information through strong passwords, multi-factor authentication (MFA), and monitoring for suspicious activities.
+
+7. Protecting Against Ransomware
+Focuses on data backups, endpoint protection, and user training to counter threats where hackers encrypt data and demand payment for its release.
+
+8. Protecting Against Phishing Attacks
+Educates users about fake emails or links designed to steal credentials, backed by anti-phishing tools and email filters.
+
+9. Protecting Against Social Engineering Attacks
+Combats psychological manipulation tactics by training employees to recognize red flags and implementing stringent verification processes.
+
+10. Protecting Against Insider Threats
+Monitors and limits employee access to sensitive data to mitigate risks posed by malicious or careless insiders.
+
+
